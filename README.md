@@ -1,2 +1,2 @@
 # Jarvis
-AI-powered speech assistant (Jarvis)
+AI-powered speech assistant - UNDER CONSTRUCTION
