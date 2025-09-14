@@ -1,0 +1,8 @@
+openai>=1.51.0
+python-dotenv>=1.0.1
+pvporcupine==3.0.3
+sounddevice>=0.4.7
+pyttsx3>=2.90
+numpy>=1.26.4
+pystray>=0.19.5
+pillow>=10.3.0
